@@ -1,3 +1,3 @@
 # git_training
-19th February 2024
-Monday
+18th March 2024
+MONDAY
