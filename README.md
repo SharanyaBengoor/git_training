@@ -1,3 +1,3 @@
 # git_training
 18th March 2024
-MONDAY
+MONDAY is 18th.
